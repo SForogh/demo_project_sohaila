@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 public class StepDefs {
 
-    //New updates to be pushed to my remote repository
+    //Private: updates to be pushed to my remote repository
 
     @Given("^I am on the home page$")
     public void i_am_on_the_home_page() throws Throwable {
